@@ -1,5 +1,6 @@
 /*!
  * ----------------------------------------------------------------------
+ * Thank you to:
  * elegance: Front-end site library
  * Other scripts may access this api using an async handler:
  *   var elegance = elegance || [];
